@@ -1,0 +1,14 @@
+{
+  "name": "play-store-submit",
+  "description": "Claude Code skill for first-time Google Play submission of Expo / React Native apps.",
+  "owner": {
+    "name": "nasimnow"
+  },
+  "plugins": [
+    {
+      "name": "play-store-submit",
+      "source": "./plugins/play-store-submit",
+      "description": "Skill for submitting an Expo / React Native Android app to Google Play for the first time by driving Play Console in a browser, then automating later releases with eas submit."
+    }
+  ]
+}

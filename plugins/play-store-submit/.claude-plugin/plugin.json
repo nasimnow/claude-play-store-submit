@@ -1,0 +1,8 @@
+{
+  "name": "play-store-submit",
+  "version": "0.1.0",
+  "description": "Submit an Expo / React Native Android app to Google Play for the first time: Play Console setup, every App content declaration, store listing, release and review, then eas submit for later releases.",
+  "author": { "name": "nasimnow" },
+  "license": "MIT",
+  "keywords": ["android", "google-play", "play-console", "expo", "eas", "react-native"]
+}
